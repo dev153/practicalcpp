@@ -6,6 +6,7 @@
 #pragma PdCalcStack_hpp
 
 #include <vector>
+#include <memory>
 
 class PdCalcStack {
 private:
